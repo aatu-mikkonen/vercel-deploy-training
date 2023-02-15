@@ -1,0 +1,23 @@
+{
+  "name": "vercel-deploy-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aatu-mikkonen/vercel-deploy-training.git"
+  },
+  "author": "Aatu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aatu-mikkonen/vercel-deploy-training/issues"
+  },
+  "homepage": "https://github.com/aatu-mikkonen/vercel-deploy-training#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fastify": "^4.13.0"
+  }
+}
