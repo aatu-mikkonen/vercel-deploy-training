@@ -19,7 +19,7 @@
     {
         "id": 2,
         "customer_id": 3,
-        "price": 6.09,
+        "price": 2.22,
         "name": "Milla Mallinen",
         "phone": "+358400654321",
         "billing_address": {
@@ -37,6 +37,23 @@
         "id": 3,
         "customer_id": 4,
         "price": 4.20,
+        "name": "Erkki Esimerkki",
+        "phone": "+358400123456",
+        "billing_address": {
+            "city": "Oulu",
+            "zip": 90100,
+            "address": "Esimerkkikuja 2"
+        },
+        "shipping_address": {
+            "city": "Oulu",
+            "zip": 90100,
+            "address": "Esimerkkikuja 2"
+        }
+    },
+    {
+        "id": 4,
+        "customer_id": 4,
+        "price": 4.25,
         "name": "Erkki Esimerkki",
         "phone": "+358400123456",
         "billing_address": {
