@@ -10,9 +10,12 @@ const app = Fastify({
 });
 
 // Register your application as a normal plugin.
-app.register(import("../functions/index"), {
-    prefix: '/'
-});
+app.register(
+	import("../functions/index"),
+	{
+		prefix: '/'
+	}
+);
 
 export default async (req, res) => {
     await app.ready();

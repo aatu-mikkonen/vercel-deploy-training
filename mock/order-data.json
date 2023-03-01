@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "customer_id": 1,
+        "price": 6.09,
+        "name": "Maurus Möttönen",
+        "phone": "+358501234567",
+        "billing_address": {
+            "city": "Oulu",
+            "zip": 90100,
+            "address": "Testikatu 1"
+        },
+        "shipping_address": {
+            "city": "Oulu",
+            "zip": 90100,
+            "address": "Testikatu 1"
+        }
+    },
+    {
+        "id": 2,
+        "customer_id": 3,
+        "price": 6.09,
+        "name": "Milla Mallinen",
+        "phone": "+358400654321",
+        "billing_address": {
+            "city": "Oulu",
+            "zip": 90250,
+            "address": "Mallitie 33"
+        },
+        "shipping_address": {
+            "city": "Oulu",
+            "zip": 90250,
+            "address": "Mallitie 33"
+        }
+    },
+    {
+        "id": 3,
+        "customer_id": 4,
+        "price": 4.20,
+        "name": "Erkki Esimerkki",
+        "phone": "+358400123456",
+        "billing_address": {
+            "city": "Oulu",
+            "zip": 90100,
+            "address": "Esimerkkikuja 2"
+        },
+        "shipping_address": {
+            "city": "Oulu",
+            "zip": 90100,
+            "address": "Esimerkkikuja 2"
+        }
+    }
+]
